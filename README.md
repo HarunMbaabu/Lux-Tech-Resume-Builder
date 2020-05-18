@@ -1,7 +1,9 @@
 #Lux Tech Resume Builder
 
 
-[Lux Tech Resume Builder] (https://lux-resume-builder.netlify.app/)
+[Lux Tech Resume Builder](https://lux-resume-builder.netlify.app/)
+
+
 Client side pdf generation using angular 8 and pdfmake.
 Export to pdf in Angular 8 and pdfmake
 
