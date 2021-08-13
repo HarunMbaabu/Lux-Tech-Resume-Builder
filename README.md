@@ -20,4 +20,4 @@ You can generate your resume in pdf format at client side. We do not store any i
 
 ## Developed and Maintained By
 
-This project is developed by [Lux Tech Academy](http://luxtechacademy.com/)
+This project is developed by [Lux Tech Academy](https://twitter.com/lux_academy)
