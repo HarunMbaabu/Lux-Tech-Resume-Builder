@@ -1,4 +1,4 @@
-#Lux Tech Resume Builder
+## Lux Tech Resume Builder
 
 
 [Lux Tech Resume Builder](https://lux-resume-builder.netlify.app/)
